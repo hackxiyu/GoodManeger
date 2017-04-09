@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GBK"?>
+<!ELEMENT goods (good*)>
+<!ELEMENT good (id,name,price)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
